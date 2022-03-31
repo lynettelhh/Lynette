@@ -14,7 +14,6 @@
 - 🛢 &nbsp; Databases: PostgreSQL || MySQL 
 <br>
 
-<br>
 <div align="left">
 <h3> 🤝🏻 Connect with Me </h3>
 
