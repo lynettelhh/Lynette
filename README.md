@@ -26,7 +26,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p>
-&nbsp; <a href="https://www.linkedin.com/in/huan-lynette-li-121109214/" target="_blank" rel="noopener noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/huan-lynette-li-121109214/" target="_blank" rel="noopener noreferrer"></a>
 &nbsp; <a href="mailto:huanhuan0716@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png"  width="50" /></a>
 </p>
 </div>
