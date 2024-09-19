@@ -3,15 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently seeking internship in NY.
+- 🔭 &nbsp; Currently seeking internship/fulltime position in NY.
 - 🤔 &nbsp; Building applications that make our daily life better and simplier during my free time. 
-- 🎓 &nbsp; Computer Science student with graduation date Dec 2022.
+- 🎓 &nbsp; Computer Science graduate school student with graduation date Dec 2024.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Frontend: React.js  
 - 🌐 &nbsp; Backend: Node.js || Express.js 
-- 🛢 &nbsp; Databases: PostgreSQL || MySQL 
+- 🛢 &nbsp; Databases: PostgreSQL || MySQL || Cassandra
 <br>
 
 <div align="left">
